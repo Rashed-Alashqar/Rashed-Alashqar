@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello I am Rashed-Alashqar I am a Dynamic Mechatronics Engineer with a strong focus on drones, UAVs, Deep learning, electronics, and building management systems (BMS). Skilled in SolidWorks and CAD design(I thrive in fabrication labs and makerspaces), I am a knowledge-hungry person and a flexible learner of various sciences, this is a feature I am proud to have even while working, I apply creativity, teamwork, and leadership to deliver efficient, cost-effective solutions. Driven to learn and integrate new cutting-edge technologies into innovative projects.
 
-[Portfolio](https://rashed-alashqar.github.io/)
+[Portfolio - Rashed Alashqar](https://rashed-alashqar.github.io/)
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@RashedAshaar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fpv_drones_exhibition/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashedalshqar/)
